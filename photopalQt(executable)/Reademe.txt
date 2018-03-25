@@ -1,0 +1,6 @@
+Getting Started With Qt (Desktop)
+Qt is much more than just a cross-platform SDK - it's a technology strategy that lets you quickly and cost-effectively design, develop, deploy, and maintain software while delivering a seamless user experience across all devices. Let's get started with Qt.
+
+How to setup Qt in Windows?
+1. Download the open source Qt package from https://www.qt.io/download-open-source/
+

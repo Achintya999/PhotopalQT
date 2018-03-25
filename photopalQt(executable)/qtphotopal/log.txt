@@ -1,0 +1,20 @@
+Jul 24 201716:44:37 : ..\PhotopalWithQt\droparea.cpp : DropArea Initialized
+Jul 24 201716:44:37 : ..\PhotopalWithQt\photopalmainwindow.cpp : Main Window Created
+Jul 24 201716:44:37 : ..\PhotopalWithQt\droparea.cpp : C:/Users/KANISHK/Pictures/Capture_error.PNG is a image
+Jul 24 201716:44:37 : ..\PhotopalWithQt\droparea.cpp : Thread Created!
+Jul 24 201716:44:37 : ..\PhotopalWithQt\droparea.cpp : Thread started running 6168
+Jul 24 201716:44:37 : ..\PhotopalWithQt\droparea.cpp : Caling Conversion6168
+Jul 24 201716:44:37 : ..\PhotopalWithQt\photopalimgmodify.cpp : C:/Users/KANISHK/Pictures/Capture_error-low.jpg6168
+Jul 24 201716:44:37 : ..\PhotopalWithQt\droparea.cpp : Thread ended running 6168
+Jul 24 201716:44:37 : ..\PhotopalWithQt\droparea.cpp : All Threads Exiting
+Jul 24 201716:44:37 : ..\PhotopalWithQt\droparea.cpp : DropArea Initialized
+Jul 24 201716:44:37 : ..\PhotopalWithQt\photopalmainwindow.cpp : Main Window Created
+Jul 24 201716:44:37 : ..\PhotopalWithQt\droparea.cpp : DropArea Initialized
+Jul 24 201716:44:37 : ..\PhotopalWithQt\photopalmainwindow.cpp : Main Window Created
+Jul 24 201716:44:37 : ..\PhotopalWithQt\droparea.cpp : C:/Users/User/Desktop/Love Per Square Foot (2018) [WEBRip] [720p] [YTS.AM]/www.YTS.AM.jpg is a image
+Jul 24 201716:44:37 : ..\PhotopalWithQt\droparea.cpp : Thread Created!
+unning 2416
+Jul 24 201716:44:37 : ..\PhotopalWithQt\droparea.cpp : Caling Conversion2416
+Jul 24 201716:44:37 : ..\PhotopalWithQt\photopalimgmodify.cpp : C:/Users/User/Desktop/Love Per Square Foot (2018) [WEBRip] [720p] [YTS.AM]/www.YTS.AM-low.jpg2416
+Jul 24 201716:44:37 : ..\PhotopalWithQt\droparea.cpp : Thread ended running 2416
+Jul 24 201716:44:37 : ..\PhotopalWithQt\droparea.cpp : All Threads Exiting
